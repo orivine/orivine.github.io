@@ -24,7 +24,7 @@ Hi! I'm wen wantao.
 
 
 # 📝 Publications 
-
+- [Constructing Complexity Metrics for Measuring Generalization Ability of Deep Learning Models](https://ieeexplore.ieee.org/abstract/document/10808837), Wantao Wen et al.
 
 # 🎖 Honors and Awards
 
